@@ -275,7 +275,21 @@
 				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Levels/Test_World.umap",
 				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/Interfaces/BI_PickupInterface.uasset",
 				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/Interfaces/BI_InteractInterface.uasset",
-				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Static/M_TestMaterial.uasset"
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Static/M_TestMaterial.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/Player/BP_Mario.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IMC_DefaultMain.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IA_Crouch.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IA_Use.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IA_Sprint.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IA_Jump.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Input/DefaultMain/IA_Move.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/BP_CoreGameMode.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/BP_CorePlayerController.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/BP_CoreInstance.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/BP_CoreHUD.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/Interfaces/BI_BumpInterface.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/Interfaces/BI_StompInterface.uasset",
+				"C:/Hemanth/Unreal-Game-MarioClone/MarioClone/Content/_Dynamic/Blueprints/BumpableBlocks/BP_BrickVar_1.uasset"
 			]
 		}
 	]
