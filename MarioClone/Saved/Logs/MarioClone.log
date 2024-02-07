@@ -2234,3 +2234,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.07-04.28.27:683][522]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_Dynamic/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_18
 [2024.02.07-04.28.27:683][522]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Dynamic/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
 [2024.02.07-04.28.53:725][634]LogDerivedDataCache: C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.260 and deleted 0 files with total size 0 MiB. Scanned 2718 files in 2708 folders with total size 106 MiB.
+[2024.02.07-04.42.17:166][ 43]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/_Dynamic/ThirdPerson/Maps/ThirdPersonMap does not exist, will not scan.
